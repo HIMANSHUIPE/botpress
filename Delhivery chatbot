@@ -1,0 +1,9 @@
+Hi Kamal
+
+As discussed with you , please find the attached excel file
+Requirements are 
+1. Input -Waybills in 'n' numbers so chat pod working should be according to 'n' waybills.
+2. Waybill should look for respective dcs and contact mail id of CM/ACM.
+3.  MSG1 should be sent to both CM/ACM and according to responses/keywords MSG3 should be sent to CM/ACM.
+4. MSG3 responses should pop up to main chat ID.
+5. if there is no response after MSG1 then at the interval of 10 mins, MSG 2 would pop up to CM/ACM id.
